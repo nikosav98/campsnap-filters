@@ -1,6 +1,7 @@
 # campsnap-filters
 
 This program was made to easily switch filters on the Campsnap camera.
+Tested on my own Camp Snap.
 
 IMPORTANT: After installing a new filter, as per the site states, restart the camera twice,
 waiting about 10-20 seconds for the light to stop flashing.
